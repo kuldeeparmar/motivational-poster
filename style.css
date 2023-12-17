@@ -1,0 +1,17 @@
+div{
+    width: 50%;
+    margin-left:25% ;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: indianred;
+}
+p{
+    color: whitesmoke;
+    font-size: 16pt;
+}
+img{
+    width:100%;
+}
